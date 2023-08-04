@@ -2,7 +2,7 @@ This directory contains the needed data files. The data files were exported from
 
 https://www.baseball-reference.com/leagues/NL/2015-misc.shtml#teams_miscellaneous
 <br>https://www.baseball-reference.com/leagues/NL/2016-misc.shtml#teams_miscellaneous<br/>
-<br?https://www.baseball-reference.com/leagues/NL/2017-misc.shtml#teams_miscellaneous<br/>
+<br>https://www.baseball-reference.com/leagues/NL/2017-misc.shtml#teams_miscellaneous<br/>
 <br>https://www.baseball-reference.com/leagues/NL/2018-misc.shtml#teams_miscellaneous<br/>
 <br>https://www.baseball-reference.com/leagues/NL/2019-misc.shtml#teams_miscellaneous<br/>
-https://www.baseball-reference.com/leagues/NL/#teams_team_wins3000
+<br>https://www.baseball-reference.com/leagues/NL/#teams_team_wins3000
