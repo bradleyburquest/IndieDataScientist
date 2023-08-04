@@ -1,5 +1,5 @@
 # IndieDataScientist
-##Coursera Applied Visualizations Project
+## Coursera Applied Visualizations Project
 
 ### Code
 This is the code and data for the final project for the course Coursera Apllied Plotting, Charting & Data Representation in Python. You can clone this repository and run the code in an Jupyter or local Python environment. 
